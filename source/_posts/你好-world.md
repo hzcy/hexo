@@ -1,6 +1,6 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: {{ 测试 }}
+date: {{ 2021年6月15日 }}
 tags:
 ---
-kjk
+你好
