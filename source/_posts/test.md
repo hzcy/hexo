@@ -1,6 +1,6 @@
 ---
-title: {{ 测试 }}
-date: {{ 6月15 }}
+title: {{ test }}
+date: {{ 615 }}
 tags:
 ---
 你好
