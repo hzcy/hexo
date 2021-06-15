@@ -1,6 +1,6 @@
 ---
-title: {{ test }}
-date: {{ 615 }}
+title: hh
+date: hh
 tags:
 ---
 你好
