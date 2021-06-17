@@ -96,7 +96,7 @@ valine:
   language: zh-cn # Language, available values: en, zh-cn
   visitor: true # 文章阅读统计
   valine: https://cdn.jsdelivr.net/gh/hzcy/cdn@main/Valine.min.js
-  avatar: 'mp' # gravatar style
+  avatar: 'wavatar' # gravatar style
   guest_info: nick,mail,link # custom comment header
   pageSize: 10 # pagination size
 
