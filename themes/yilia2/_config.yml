@@ -2,14 +2,15 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  轻舟app: /
+  后台管理: https://heblog.huangres.workers.dev/hpp/admin/login
 
 # SubNav
 subnav:
   github: "https://github.com/hzcy"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  # weibo: "#"
+  # rss: "#"
+  # zhihu: "#"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
@@ -124,6 +125,6 @@ friends:
   后台管理: https://heblog.huangres.workers.dev/hpp/admin/login
   
 
-  
+since: 2021
 
 aboutme: 一个<br><br>菜鸟<br>
