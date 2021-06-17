@@ -9,7 +9,7 @@ menu:
 subnav:
   github: "https://github.com/hzcy"
   # weibo: "#"
-  # rss: "#"
+  rss: "/atom.xml"
   # zhihu: "#"
   #qq: "#"
   #weixin: "#"
@@ -122,7 +122,7 @@ smart_menu:
  
 
 friends:
-  后台管理: https://heblog.huangres.workers.dev/hpp/admin/login
+  友情链接: /
   
 
 since: 2021
