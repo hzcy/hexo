@@ -87,7 +87,7 @@ wangyiyun: false
 #3、畅言
 changyan_appid: false
 changyan_conf: false
-
+valine: https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js
 valine:
   enable: true
   appid: K4eUxHW4DXFcTwPfKA4anEeW-gzGzoHsz # Your leancloud application appid
