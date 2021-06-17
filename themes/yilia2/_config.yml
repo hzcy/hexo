@@ -88,6 +88,15 @@ wangyiyun: false
 changyan_appid: false
 changyan_conf: false
 
+valine:
+  enable: true
+  appid: K4eUxHW4DXFcTwPfKA4anEeW-gzGzoHsz # Your leancloud application appid
+  appkey: APLUve7TW8xIxVjbBRdxu29y # Your leancloud application appkey
+  placeholder: 来都来了，不撩一句嘛~，留言记得在上面留下【邮箱】，方便收到回复通知~ # Comment box placeholder
+  language: zh-cn # Language, available values: en, zh-cn
+  visitor: true # 文章阅读统计
+
+
 #4、Disqus 在hexo根目录的config里也有disqus_shortname字段，优先使用yilia的
 disqus: false
 
