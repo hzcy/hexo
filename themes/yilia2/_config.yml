@@ -72,7 +72,7 @@ favicon: /favicon.png
 avatar: https://cdn.jsdelivr.net/gh/hzcy/cdn@main/logo.png
 
 #是否开启分享
-share_jia: true
+share_jia: false
 
 #评论：1、多说；2、网易云跟帖；3、畅言；4、Disqus；5、Gitment
 #不需要使用某项，直接设置值为false，或注释掉
@@ -87,7 +87,7 @@ wangyiyun: false
 #3、畅言
 changyan_appid: false
 changyan_conf: false
-valine: https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js
+
 valine:
   enable: true
   appid: K4eUxHW4DXFcTwPfKA4anEeW-gzGzoHsz # Your leancloud application appid
