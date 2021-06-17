@@ -68,7 +68,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: https://cdn.jsdelivr.net/gh/hzcy/cdn@main/logo.jpg
+avatar: https://cdn.jsdelivr.net/gh/hzcy/cdn@main/logo.png
 
 #是否开启分享
 share_jia: true
@@ -126,4 +126,4 @@ friends:
 
   
 
-aboutme: 一个<br><br>技术小菜鸟<br>
+aboutme: 一个<br><br>菜鸟<br>
