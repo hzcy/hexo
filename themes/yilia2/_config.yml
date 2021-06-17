@@ -95,6 +95,7 @@ valine:
   placeholder: 来都来了，不撩一句嘛~，留言记得在上面留下【邮箱】，方便收到回复通知~ # Comment box placeholder
   language: zh-cn # Language, available values: en, zh-cn
   visitor: true # 文章阅读统计
+  valine: https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js
 
 
 #4、Disqus 在hexo根目录的config里也有disqus_shortname字段，优先使用yilia的
