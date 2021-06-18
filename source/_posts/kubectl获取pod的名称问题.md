@@ -1,6 +1,6 @@
 ---
 title: kubectl获取pod的名称问题
-date: Jun 19 2021
+date: 2021-06-18
 tags: 笔记
 ---
 想要重启kubectl中的pod，需要通过：
